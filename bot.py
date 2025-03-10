@@ -231,4 +231,4 @@ async def on_ready():
     await bot.add_cog(Music(bot))
     print('Music cog loaded')
 
-bot.run('MTMzMjcyMDM1NzMwNzU4NDU4NQ.GrhFE_.Rkai51LYMZ7_ibpF6OvnYvtEBvq6hd6kT6Fu1U')
+bot.run('')
